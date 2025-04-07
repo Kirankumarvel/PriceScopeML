@@ -32,7 +32,7 @@ This hands-on analysis uses Python, `scikit-learn`, `matplotlib`, and `pandas`, 
 ```
 PriceScope/
 ├── 📄 README.md               # Project overview
-├── 📄 price_scope.ipynb       # Jupyter Notebook with step-by-step code
+├── 📄 price_scope.py          # Main file
 ├── 📄 data_info.txt           # Dataset description (optional)
 └── 📊 results/                # Plots and residual analysis visuals
 ```
